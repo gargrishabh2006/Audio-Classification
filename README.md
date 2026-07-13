@@ -43,17 +43,6 @@ A lightweight **Audio Classification** project built with **TensorFlow** that cl
 - Optimizer: **RMSProp**
 
 
-## 📁 Project Structure
-
-```
-├── UrbanSound8K/
-├── model/
-├── notebooks/
-├── predict.py
-├── train.py
-├── requirements.txt
-└── README.md
-```
 
 ## 📈 Results
 
