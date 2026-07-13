@@ -42,9 +42,6 @@ A lightweight **Audio Classification** project built with **TensorFlow** that cl
 - Loss: **Categorical Crossentropy**
 - Optimizer: **RMSProp**
 
-## 📸 Sample Prediction
-
-![Sample Prediction](images/sample_prediction.png)
 
 ## 📁 Project Structure
 
