@@ -73,6 +73,4 @@ A lightweight **Audio Classification** project built with **TensorFlow** that cl
   - Siren
   - Street Music
 
-## 📜 License
 
-This project is intended for educational and learning purposes.
