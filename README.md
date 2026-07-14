@@ -11,6 +11,10 @@ A lightweight **Audio Classification** project built with **TensorFlow** that cl
 - 🔍 Supports prediction on custom `.wav` audio files
 
 ## 📂 Dataset
+This project uses the UrbanSound8K dataset.
+
+Download it from the official source:
+https://urbansounddataset.weebly.com/urbansound8k.html
 
 **UrbanSound8K**
 
